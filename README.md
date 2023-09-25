@@ -34,26 +34,10 @@ The first thing I log is the request/event and the response. In the event I like
 
 Having multiple, stand-alone environments makes every aspect of software development easier over the long term. Automating application and ideally infrastructure deployment is essential. Within the AWS ecosystem I prefer CDK which allows developers to work in their native language to deploy AWS components. I usually deploy CDK apps right from a GitHub Action but they can also be orchestrated with Terraform.
 
-## 🥽 Current Project
-
-### Summer 2023: What the Koala 🐨
-
-Large language model Discord bot that uses OpenAI APIs to generate responses
-in the form of an educational but annoying comedic sidekick koala named “What.”
-
-The long-term goals are:
-* Memory, session-based to start but ideally using some combination of vector, graph, and document storage for persistence
-* To give her a knowledge base to respond to simple queries (again, backed by the memory)
-* To give her a simple toolchain to accomplish simple tasks (e.g., check the weather)
-
-The architecture is a Node Express app running in AWS Lambda behind an API Gateway. This approach provides all the conventions and conveniences of Express in a serverless environment without having to listen to the port and all the associated hassles of orchestration. The storage layer is MongoDB.  I’m using the OpenAI API to process text. I am inspired by langchain so I hew closely to their conventions, but as a library it is a moving target and the native language is Python. 
-
-![What the Architecture](./assets/What-the-Architecture.png)
-
 ## 📄 Résumé
 
 * 🇺🇸 Location: Evanston, IL, USA (2004-present)
-* 💼 Current Occupation: Homemaker (May 2023-present)
+* 💼 Current Occupation: Independent programmer
 * 🗄️ Previous Employers: Stax Payments (2022-2023), acquirer of CardX (2019-2021); Northwestern University (2001-2019)
 * 🎓 Education: Bachelor of Arts in Mathematics, Cornell College 2001
 
