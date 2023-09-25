@@ -7,6 +7,20 @@ AWS cloud and JavaScript developer. A petal from a steel magnolia
 * 😎 Interests: Crypto, natural language processing, generative art, emergent behavior
 * 🥰 Hobbies: Splinterlands, Minecraft, community building, electoral campaigns
 
+## 📄 Résumé
+
+* 🇺🇸 Location: Evanston, IL, USA (2004-present)
+* 💼 Current Occupation: Independent programmer
+* 🗄️ Previous Employers: Stax Payments (2022-2023), acquirer of CardX (2019-2021); Northwestern University (2001-2019)
+* 🎓 Education: Bachelor of Arts in Mathematics, Cornell College 2001
+
+## 🌐 Socials
+
+* 👾 Discord is where I am most active
+* 🤝 [LinkedIn](https://www.linkedin.com/in/adammarkfinlayson/)
+* 🔗 [Personal Bio](https://adamf.in/)
+* 🙅‍♂️ [X](https://twitter.com/nullfame)
+
 ## 🎯 Focus
 
 ### Prioritization 📋
@@ -33,16 +47,3 @@ The first thing I log is the request/event and the response. In the event I like
 ### Automation 👷
 
 Having multiple, stand-alone environments makes every aspect of software development easier over the long term. Automating application and ideally infrastructure deployment is essential. Within the AWS ecosystem I prefer CDK which allows developers to work in their native language to deploy AWS components. I usually deploy CDK apps right from a GitHub Action but they can also be orchestrated with Terraform.
-
-## 📄 Résumé
-
-* 🇺🇸 Location: Evanston, IL, USA (2004-present)
-* 💼 Current Occupation: Independent programmer
-* 🗄️ Previous Employers: Stax Payments (2022-2023), acquirer of CardX (2019-2021); Northwestern University (2001-2019)
-* 🎓 Education: Bachelor of Arts in Mathematics, Cornell College 2001
-
-## 🌐 Socials
-
-* 👾 Discord is where I am most active
-* 🤝 [LinkedIn](https://www.linkedin.com/in/adammarkfinlayson/)
-* 🦤 [Twitter](https://twitter.com/nullfame)
